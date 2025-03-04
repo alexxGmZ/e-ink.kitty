@@ -15,3 +15,4 @@ Just copy the `*.conf` theme files to your `kitty.conf` directory.
 ## Application Ports
 
 * [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
+* [cmus](https://github.com/alexxGmZ/e-ink.cmus)
