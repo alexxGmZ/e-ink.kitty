@@ -6,6 +6,12 @@ E-ink theme for Kitty Terminal.
 
 &nbsp;
 
+## Installation
+
+Just copy the `*.conf` theme files to your `kitty.conf` directory.
+
+&nbsp;
+
 ## Application Ports
 
 * [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
