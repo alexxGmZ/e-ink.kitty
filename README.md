@@ -17,3 +17,4 @@ Just copy the `*.conf` theme files to your `kitty.conf` directory.
 * [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [termux](https://github.com/alexxGmZ/e-ink.termux)
+* [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
