@@ -14,8 +14,8 @@ Just copy the `*.conf` theme files to your `kitty.conf` directory.
 
 ## Application Ports
 
-* [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
-* [cmus](https://github.com/alexxGmZ/e-ink.cmus)
-* [termux](https://github.com/alexxGmZ/e-ink.termux)
-* [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
-* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
+* [NeoVim](https://github.com/e-ink-colorscheme/e-ink.nvim)
+* [cmus](https://github.com/e-ink-colorscheme/e-ink.cmus)
+* [termux](https://github.com/e-ink-colorscheme/e-ink.termux)
+* [ghostty](https://github.com/e-ink-colorscheme/e-ink.ghostty)
+* [Sublime Text](https://github.com/e-ink-colorscheme/e-ink.subl)
